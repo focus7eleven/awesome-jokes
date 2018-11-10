@@ -12,7 +12,9 @@
     <br />
     <br />
     <br />
+    <h3>
     <em>Collection of</em><code> Awesome Jokes! 😆 </code>
+    </h3>
     <br />
     <br />
     <br />
