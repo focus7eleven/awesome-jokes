@@ -1,5 +1,3 @@
-# awesome-jokes
-
 <div align="center">
   <sup>
     <br />
