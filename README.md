@@ -10,7 +10,7 @@
     <br />
     <br />
     <h3>
-    <em>Collection of</em><code> Awesome Jokes! 😆 </code>
+    <em>Collection of<code> Awesome Jokes! </code></em> 😆
     </h3>
     <br />
     <br />
@@ -25,11 +25,34 @@
 
 ---
 
-![](./assets/1.jpeg)
-![](./assets/2.jpeg)
-![](./assets/3.jpeg)
-![](./assets/4.jpeg)
+<br/>
+<br/>
+<br/>
+<div align="center">
+<img src="./assets/1.png">
+</div>
+<br/>
+<br/>
+<div align="center">
+<img src="./assets/2.png">
+</div>
+<br/>
+<br/>
+<div align="center">
+<img src="./assets/3.png">
+</div>
+<br/>
+<br/>
+<div align="center">
+<img src="./assets/4.png">
+</div>
 
+
+<br/>
+<br/>
+<br/>
+
+---
 
 
 <div align="center">
@@ -41,7 +64,7 @@
     <br />
     <br />
     <h3>
-    <em>Feel free to create a </em> <code> pull request ❤️</code>
+    <em>Feel free to create a<code> pull request </code></em> ❤️
     </h3>
     <br />
     <br />
