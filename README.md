@@ -1,6 +1,33 @@
 # awesome-jokes
 
-<div style="width: 100%; height: 500px; text-align: center; line-height: 500px;background-color:#eee;color:black;">😆  Awesome Jokes! 😆</div>
+<div align="center">
+  <sup>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <em>Collection of</em><code> Awesome Jokes! 😆 </code>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+  </sup>
+</div>
+<p align="center"></p>
+
+---
 
 ![](./assets/1.jpeg)
 
