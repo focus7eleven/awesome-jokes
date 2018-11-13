@@ -26,6 +26,25 @@
 <br/>
 <br/>
 <br/>
+<div align="center">
+  <img src="./assets/8.png">
+</div>
+<br/>
+<br/>
+
+<div align="center">
+  <img src="./assets/9.png">
+</div>
+<br/>
+<br/>
+
+
+
+<div align="center">
+  <img src="./assets/7.jpg">
+</div>
+<br/>
+<br/>
 
 <div align="center">
   <img src="./assets/6.jpeg">
