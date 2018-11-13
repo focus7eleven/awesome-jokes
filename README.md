@@ -28,7 +28,13 @@
 <br/>
 
 <div align="center">
-  <img style="width: 45%" src="./assets/5.jpeg">
+  <img src="./assets/6.jpeg">
+</div>
+<br/>
+<br/>
+
+<div align="center">
+  <img src="./assets/5.jpeg">
 </div>
 <br/>
 <br/>
